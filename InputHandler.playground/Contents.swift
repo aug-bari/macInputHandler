@@ -1,5 +1,5 @@
 //: Playground - noun: a place where people can play
-//: Simulate Command + Space => 
+//: Simulate Command + Space => open spotlight search bar
 
 import Cocoa
 
